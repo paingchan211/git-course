@@ -1,3 +1,5 @@
-# GIT HUB COURSE i get up early
+# GIT HUB COURSE
 
 this is John
+
+this is David branch
