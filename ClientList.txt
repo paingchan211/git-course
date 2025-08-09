@@ -2,3 +2,5 @@ john doe
 process the user data
 
 create an avatar for user
+
+this is feature2
