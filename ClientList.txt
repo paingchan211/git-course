@@ -1,2 +1,4 @@
 john doe
 process the user data
+
+create an avatar for user
